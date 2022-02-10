@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
+html {
+    font-size: 62.5%; /* =10px */
+}
+body {
+    background-image: url("https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif");
+    background-size: cover;
+    background-size: 200rem;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.cronometro {
+    font-size: 12.5rem;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+    justify-content: center;
+    opacity: 50%;
+}
+.cronometro1 {
+    max-width: 100%;
+    max-height: 100%;
+    font-size: 12.5rem;
+    color: #b700ff;
+    font-family: 'Fredoka One', cursive;
+    justify-content: center;
+    opacity: 70%;
+    margin-left: 1rem;
+
+}
+form {
+    position: relative;
+    line-height: 0%;
+}
+.caja {
+    display: flex;
+    flex-direction: column;
+    line-height: 0;
+    align-items: center;
+    margin-top: 45rem;
+}
+.caja {
+    display: flex;
+    flex-direction: column;
+    line-height: 0;
+    align-items: center;
+    margin-top: 45rem;
+}
+.caja2 {
+    display: flex;
+    flex-direction: column;
+    line-height: 0;
+    align-items: center;
+    margin-top: 45rem;
+}
+.milisegundos {
+    max-width: 100%;
+    max-height: 100%;
+    font-size: 8rem;
+    color: #51ff00;
+    font-family: 'Fredoka One', cursive;
+    justify-content: center;
+    opacity: 70%;
+    margin-left: -3rem;
+    margin-top: -20rem;
+}
